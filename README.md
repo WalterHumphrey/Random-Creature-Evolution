@@ -38,7 +38,7 @@ A fundamental part of a genetic algorithm is the fitness function that tells us 
 
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/69701088/210605813-f3604d81-4cf4-4fb3-9a41-984d4232b5bf.png)
 
-## Repduction 
+## Reproduction 
 
 In order to generate a new generation from the previous ones, we have created a reproduction algorithm for n individuals. This algorithm consists of 3 steps: merge bodies, merge appendages and merge joins.
 
