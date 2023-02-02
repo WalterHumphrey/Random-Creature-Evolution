@@ -84,4 +84,6 @@ matterJs : https://brm.io/matter-js/
 ## Autors
 Jorge Rando Hernández 〽️ @jorgerando
 
-Javi  〽️ @ javi-dbgr
+Javi  〽️ @javi-dbgr
+
+Walter Humphrey 〽️ @WalterHumphrey
